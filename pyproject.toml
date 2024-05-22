@@ -1,0 +1,14 @@
+[project]
+name = "rui-nodes"
+description = "Rui's workflow-specific custom node, written using GPT."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/rui40000/RUI-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "RUI-Nodes"
+Icon = ""
